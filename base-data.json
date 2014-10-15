@@ -1,0 +1,56 @@
+[
+	{
+		"id"    : "ba022fda-dcc2-4131-ab57-c08643b74b5a",
+		"title" : "Ford",
+		"image" : "/imagenes/c7.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos </p>"
+	},
+	{
+		"id"    : "567ca30e-70ec-4751-88e7-62dcee962c39",
+		"title" : "Subaru",
+		"image" : "/imagenes/c8.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos </p>"	
+	},
+	{
+		"id"    : "3fe702b3-0689-4515-a0a7-2832a0223b43",
+		"title" : "Mustang",
+		"image" : "/imagenes/c9.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos </p>"
+	},
+	{
+		"id"    : "e5653322-2fc6-4a03-abba-5662aee3a850",
+		"title" : "Ferrari",
+		"image" : "/imagenes/c10.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos </p>"
+	},
+	{
+		"id"    : "689dc1eb-06f9-4c4d-8bfa-7031831996c9",
+		"title" : "Brains Undead zombies",
+		"image" : "/imagenes/c1.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos   </p>"						
+	},
+	{
+		"id"    : "3edcf7a4-368b-4193-9c54-57c7d9a3832a",
+		"title" : "The epidemic signi",
+		"image" : "/imagenes/c3.jpg",
+		"user"  : "Precio: $200.000",
+		"tag"   : "Comprar  ",
+		"votes" : "345",
+		"content" : "<p>Aca van los comentarios descritos </p>"			
+	}
+]
